@@ -1,0 +1,11 @@
+C:\Users\Bandi\source\repos\FlapyBird\FlapyBird\bin\Debug\FlapyBird.exe.config
+C:\Users\Bandi\source\repos\FlapyBird\FlapyBird\bin\Debug\FlapyBird.exe
+C:\Users\Bandi\source\repos\FlapyBird\FlapyBird\bin\Debug\FlapyBird.pdb
+C:\Users\Bandi\source\repos\FlapyBird\FlapyBird\obj\Debug\FlapyBird.csproj.AssemblyReference.cache
+C:\Users\Bandi\source\repos\FlapyBird\FlapyBird\obj\Debug\FlapyBird.Form1.resources
+C:\Users\Bandi\source\repos\FlapyBird\FlapyBird\obj\Debug\FlapyBird.Properties.Resources.resources
+C:\Users\Bandi\source\repos\FlapyBird\FlapyBird\obj\Debug\FlapyBird.csproj.GenerateResource.cache
+C:\Users\Bandi\source\repos\FlapyBird\FlapyBird\obj\Debug\FlapyBird.csproj.CoreCompileInputs.cache
+C:\Users\Bandi\source\repos\FlapyBird\FlapyBird\obj\Debug\FlapyBird.exe
+C:\Users\Bandi\source\repos\FlapyBird\FlapyBird\obj\Debug\FlapyBird.pdb
+C:\Users\Bandi\source\repos\FlapyBird\FlapyBird\obj\Debug\FlapyBird.HighScoresForm.resources

@@ -1,0 +1,7 @@
+ASD,30
+Bemutas,22
+ Boss,17
+ Gabor,5
+ugyesplayer,4
+asd,0
+2,0
